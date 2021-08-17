@@ -1,0 +1,21 @@
+// Summary of all experience relevant to technical writing.
+// TODO: First attempt using  asciidoc, revisit in near future
+
+
+[cols="m,2",stripes=even]
+|===
+|
+skill list 1 +
+foo  +
+bar +
+vim +
+git +
+Team Coordination +
+| responsibilities and tasks
+
+- did this. 
+
+- and this.
+
+- expected to do this.
+|===

@@ -1,0 +1,25 @@
+// Explore if there's other Attributes that would be useful
+
+// Remember that this is for like skills used for a single experience/position +
+_Supportive Skills and Knowledge_
+[cols="m,2"]
+|===
+// list of skills 
+|
+claw hammer banjo  +
+valgrind +
+// brief overview of responsibilities/roles
+|
+at x company:
+
+// lists + tables has some issues, this works for now
+- bash/POSIX scripting +
+- file systems +
+- chroot +
+- SELinux +
+- mail clients +
+- ssh +
+- tap/tun +
+
+Discuss role
+|===

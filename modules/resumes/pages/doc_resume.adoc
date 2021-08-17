@@ -1,0 +1,17 @@
+:includedir: ../partials
+
+// TODO: add alignment/styling
+
+
+include::{includedir}/contact.adoc[]
+
+=== Technical Writing Experience
+
+include::{includedir}/writing_experience.adoc[]
+
+=== General Experience
+
+include::{includedir}/user_experience.adoc[]
+
+=== Links and Portfolio
+

@@ -1,0 +1,4 @@
+* xref:index.adoc[Center Node]
+* xref:resumes:resumes.adoc[resumes]
+** xref:resumes:doc_resume.adoc[Technical Writing]
+** xref:resumes:engineering_resume.adoc[Developer]

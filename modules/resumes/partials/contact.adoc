@@ -1,0 +1,6 @@
+==== Resume
+mailto:name@foobar.com[Name] +
+GitHub: https://github.com/user +
+address +
+more address +
+phone:  +

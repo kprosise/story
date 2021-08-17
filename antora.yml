@@ -1,0 +1,7 @@
+name: story
+title: story
+version: '2021.09'
+# asciidoc:
+#   attributes:
+nav:
+- modules/ROOT/nav.adoc

@@ -1,0 +1,14 @@
+// Explore if there's other Attributes that would be useful
+
+// Remember that this is for like skills used for a single experience/position
+Company: _  _ +
+Roles: _ _ +
+Start Date: {date}[] +
+
+[cols="m,2",stripes=even]
+|===
+// list of skills 
+| 
+// brief overview of responsibilities
+|
+|===

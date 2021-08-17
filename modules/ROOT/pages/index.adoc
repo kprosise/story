@@ -1,0 +1,15 @@
+= Thus Far
+Author Name <katrina.prosise@gmail.com>
+
+:toc: left
+:toc!:
+
+== A Record of Technical and Creative Growth
+
+_Created on 2021-07-24_
+
+...Or, in other words, this is a journal/log of my professional history.
+Thoughts.
+A record of paths and directions I've taken.
+A way to help myself remain humble and open: revisions visible in the git logs.
+
